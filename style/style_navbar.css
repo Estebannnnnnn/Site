@@ -1,0 +1,34 @@
+header {
+    position: fixed;
+    top: 0;
+    background-color: rgb(20, 20, 20);
+    width: 100%;
+    height: 50px;
+}
+
+a {
+    color: gray;
+}
+
+.active {
+    color: rgb(58, 150, 39);
+}
+
+.navbar {
+    margin: 17px 0;
+    float: right;
+    background-color: rgb(20, 20, 20);
+    font-size: larger;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.titre_header {
+    margin: 0.5em;
+    font-family: Titre;
+    color: lightskyblue;
+    font-size: 1.5em;
+}
